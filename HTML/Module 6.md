@@ -74,7 +74,7 @@ ol {
 
 In this example, the `<ul>` element has its bullet points changed to squares, while the `<ol>` element has its numbering changed to lowercase Roman numerals.
 
-### 6.6: Concluding Thoughts
+### 6.6: Closing Thoughts
 In Module 6, you have learned how to create ordered lists, unordered lists, list items, nested lists, and customize list styles. Practice creating different types of lists and experiment with CSS styles to enhance the visual presentation of your lists. 
 
 In the next module, we will explore tables in HTML.
