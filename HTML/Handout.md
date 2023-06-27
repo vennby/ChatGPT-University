@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><p align='center'>5</p></td>
-    <td>Images and Multimedia</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%205.md">Images and Multimedia</a></td>
     <td>
       <ol>
         <li>Adding images (`&lt;img&gt;`)</li>
