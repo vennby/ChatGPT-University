@@ -45,3 +45,5 @@ Understanding these terms will greatly assist you in effectively using HTML to c
 In Module 1, we introduced HTML and its significance in web development. We explored the structure and elements of HTML and familiarize ourselves with common HTML terminology. Having a solid understanding of HTML's fundamentals is crucial as we dive deeper into creating dynamic and visually appealing web pages.
 
 In the next module, we will delve into the basic HTML document structure and learn how to create a well-formed HTML document. Get ready to embark on an exciting journey into the world of HTML!
+
+`<< Previous` <p align="right">`Next >>`</p>
