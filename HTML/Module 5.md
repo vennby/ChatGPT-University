@@ -58,3 +58,9 @@ It is important to provide fallback content for multimedia elements in case they
 In Module 5, you've learned how to add images, specify image source and alternative text, control image dimensions and styling, embed videos and audio files, and set fallback content. Keep practicing these techniques to enhance the visual and multimedia aspects of your web pages. 
 
 In the next module, we will explore lists in HTML.
+
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%204.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Handout</p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%206.md">Next >></p>
