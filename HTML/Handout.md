@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td><p align='center'>3</p></td>
-    <td>Text Formatting</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%203.md">Text Formatting</a></td>
     <td>
       <ol>
         <li>Headings (`&lt;h1&gt;` to `&lt;h6&gt;`)</li>
