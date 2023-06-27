@@ -85,4 +85,11 @@ In this example, the `required` attribute indicates that the field must be fille
 
 ### 8.9: Closing Thoughts
 In this module, we've learned about creating forms, text input fields, checkboxes, radio buttons, dropdown menus, text areas, submit buttons, form validation, and attributes. Practice creating different types of forms and experiment with various validation techniques. 
-In the next module, we will explore semantic HTML.
+
+<p> In the next module, we will explore semantic HTML.
+
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%207.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Handout</p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%209.md">Next >></p>
