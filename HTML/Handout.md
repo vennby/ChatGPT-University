@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td><p align='center'>6</p></td>
-    <td>Lists</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%206.md">Lists</a></td>
     <td>
       <ol>
         <li>Ordered lists (`&lt;ol&gt;`)</li>
