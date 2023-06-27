@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td><p align='center'>4</p></td>
-    <td>Links and Navigation</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%204.md">Links and Navigation</a></td>
     <td>
       <ol>
         <li>Creating hyperlinks (`&lt;a&gt;`)</li>
