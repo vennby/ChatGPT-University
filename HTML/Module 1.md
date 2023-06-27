@@ -46,4 +46,8 @@ In Module 1, we introduced HTML and its significance in web development. We expl
 
 In the next module, we will delve into the basic HTML document structure and learn how to create a well-formed HTML document. Get ready to embark on an exciting journey into the world of HTML!
 
-`<< Previous` <p align="right">`Next >>`</p>
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Handout</p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%202.md">Next >></p>
