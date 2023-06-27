@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><p align='center'>2</p></td>
-    <td>Basic HTML Document Structure</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%202.md">Basic HTML Document Structure</a></td>
     <td>
       <ol>
         <li>HTML document structure</li>
