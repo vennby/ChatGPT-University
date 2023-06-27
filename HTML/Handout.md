@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><p align='center'>1</p></td>
-    <td>Introduction to HTML</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%201.md">Introduction to HTML</a></td>
     <td>
       <ol>
         <li>What is HTML?</li>
