@@ -68,3 +68,9 @@ In this example, the `<nav>` element represents the navigation section, and the 
 
 ### 4.7 Closing Thoughts
 That concludes Module 4 on links and navigation. You've learned how to create hyperlinks, link to external websites, link to sections within the same page, open links in a new tab or window, add images as links, and create navigation menus. Practice using these techniques to enhance the navigation and interactivity of your web pages. Great job so far! In the next module, we will dive into images and multimedia.
+
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%203.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Handout</p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%205.md">Next >></p>
