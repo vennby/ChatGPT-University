@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td><p align='center'>7</p></td>
-    <td>Tables</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%207.md">Tables</a></td>
     <td>
       <ol>
         <li>Creating tables (`&lt;table&gt;`)</li>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td><p align='center'>8</p></td>
-    <td>Forms</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%208.md">Forms</a></td>
     <td>
       <ol>
         <li>Introduction to HTML forms (`&lt;form&gt;`)</li>
@@ -120,7 +120,7 @@
   </tr>
   <tr>
     <td><p align='center'>9</p></td>
-    <td>Semantic HTML</td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%209.md">Semantic HTML</a></td>
     <td>
       <ol>
         <li>Semantic HTML and its benefits</li>
