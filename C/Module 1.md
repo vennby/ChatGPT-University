@@ -117,13 +117,16 @@ A do-while loop is similar to a while loop but with one key difference. In a do-
 ```
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int num = 1;
 
-    do {
+    do
+    {
         printf("%d\n", num);
         num++;
-    } while (num <= 5);
+    }
+    while (num <= 5);
 
     return 0;
 }
@@ -138,12 +141,14 @@ The for loop is a compact and versatile loop structure that combines initializat
 ```
 #include <stdio.h>
 
-int main() {
-    for (int i = 1; i <= 5; i++) {
-        printf("%d\n", i);
-    }
+int main()
+{
+   for (int i = 1; i <= 5; i++)
+   {
+      printf("%d\n", i);
+   }
 
-    return 0;
+   return 0;
 }
 ```
 
