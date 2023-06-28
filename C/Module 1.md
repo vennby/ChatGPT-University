@@ -164,3 +164,9 @@ The loop will continue executing as long as the condition `i <= 5` is true. Insi
 
 The for loop provides a compact and organized way to control the flow of your program when you know the number of iterations in advance. It is commonly used when iterating over arrays, performing calculations, or repeating a block of code a fixed number of times.
 
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Handout.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Handout.md">Handout</p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%202.md">Next >></p>
+
