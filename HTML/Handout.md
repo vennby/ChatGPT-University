@@ -138,3 +138,7 @@
       </ol></td>
   </tr>
 </table>
+
+<br>
+
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%201.md">Next >></a></p>
