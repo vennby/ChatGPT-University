@@ -14,7 +14,7 @@ Currently, ChatGPT University offers the following courses:-
 </ul>
 
 ### 📝 Contributions
-This is an open-source project, so please feel free to contribute! Knowledge of shortcuts and lesser-known helpful tips are always welcome in the 'Additional Information' file that is present in each course. Please be mindful of the audeience this project is targeted towards, and of your formatting while you contribute, so make sure that your inputs are super reader-friendly!
+This is an open-source project, so please feel free to contribute! Knowledge of shortcuts and lesser-known helpful tips are always welcome in the 'Additional Information' file that is present in each course. Please be mindful of the audience this project is targeted towards, and of your formatting while you contribute, so make sure that your inputs are super reader-friendly!
 
 ### ⚠️ Notice
 Please note that the afore-mentioned courses are not affiliated with any institution or organization, and are not recognised by means of any certification. They are unofficial courses meant purely for self-learning purposes.
