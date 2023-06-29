@@ -40,6 +40,6 @@ Incorporating external knowledge and context can significantly enhance prompt en
 
 <br>
 
-<p align="left"><a href=""><< Previous</a></p>
-<p align="center"><a href="">Handout</a></p>
-<p align="right"><a href="">Next >></a></p>
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2005.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md">Handout</a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2007.md">Next >></a></p>
