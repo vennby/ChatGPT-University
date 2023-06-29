@@ -1,7 +1,7 @@
 # Module 2: Key Components of a Prompt
 In this module, we will explore the key components of a prompt, including its structure and various elements. We will also examine the types of inputs and outputs in language models, as well as the crucial role of instructions and examples within prompts.
 
-### 2.1: Analyzing the Structure and Components of a Prompt**
+### 2.1: Analyzing the Structure and Components of a Prompt
 To effectively engineer prompts, it is essential to understand their structure and components. By analyzing these aspects, we can design prompts that elicit the desired responses from language models. Let's explore this topic in detail:
 
 #### Prompt Structure:
