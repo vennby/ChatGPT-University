@@ -62,6 +62,6 @@ Prompt engineering raises ethical considerations that prompt designers must be a
 
 <br>
 
-<p align="left"><a href=""><< Previous</a></p>
-<p align="centre"><a href="">Handout</a></p>
-<p align="right"><a href="">Next >></a></p>
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md">Handout</a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%202.md">Next >></a></p>
