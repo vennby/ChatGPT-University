@@ -44,7 +44,6 @@ Instructions and examples within prompts serve as crucial guidance for language 
 #### Leveraging Instructions and Examples for Desired Responses:
    - Well-crafted instructions and examples enable prompt engineers to guide language models towards generating specific types of responses, achieving control over the model's behavior.
 
-
 <br>
 
 <p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2001.md"><< Previous</a></p>
