@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td><p align='center'>1</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%201.md">Introduction to Language Models and Prompt Engineering</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2001.md">Introduction to Language Models and Prompt Engineering</a></td>
     <td>
       <ol>
         <li>Understanding language models and their applications</li>
@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><p align='center'>2</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%202.md">Key Components of a Prompt</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2002.md">Key Components of a Prompt</a></td>
     <td>
       <ol>
         <li>Analyzing the structure and components of a prompt</li>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td><p align='center'>3</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%203.md">Defining the Task and Specifying Inputs</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2003.md">Defining the Task and Specifying Inputs</a></td>
     <td>
       <ol>
         <li>Identifying the task requirements and objectives</li>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td><p align='center'>4</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%204.md">Crafting Clear and Specific Instructions</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2004.md">Crafting Clear and Specific Instructions</a></td>
     <td>
       <ol>
         <li>Techniques for writing concise and unambiguous instructions</li>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><p align='center'>5</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%205.md">Controlling Model Behavior with Prompts</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2005.md">Controlling Model Behavior with Prompts</a></td>
     <td>
       <ol>
         <li>Leveraging control codes and style transfer for desired outputs</li>
@@ -63,7 +63,7 @@
   </tr>
   <tr>
     <td><p align='center'>6</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%206.md">Fine-tuning Prompts for Different Tasks</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2006.md">Fine-tuning Prompts for Different Tasks</a></td>
     <td>
       <ol>
         <li>Understanding task-specific prompt engineering</li>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td><p align='center'>7</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%207.md">Iteration and Feedback</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2007.md">Iteration and Feedback</a></td>
     <td>
       <ol>
         <li>Collecting and analyzing model outputs</li>
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td><p align='center'>8</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%208.md">Adapting Prompts for Real-world Applications</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2008.md">Adapting Prompts for Real-world Applications</a></td>
     <td>
       <ol>
         <li>Applying prompt engineering techniques to real-world problems</li>
@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td><p align='center'>9</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%209.md">Prompt Engineering Tools and Resources</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2009.md">Prompt Engineering Tools and Resources</a></td>
     <td>
       <ol>
         <li>Overview of available prompt engineering tools and libraries</li>
@@ -124,4 +124,4 @@
 
 <br>
 
-<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%201.md">Next >></a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2001.md">Next >></a></p>
