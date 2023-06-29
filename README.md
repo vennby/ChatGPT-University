@@ -10,7 +10,7 @@ Every course is divided into modules, the subtopics of which are listed in its h
 Currently, ChatGPT University offers the following courses:-
 <ul> 
   <li> <a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Introduction to HTML</a></li>
-  <li> <a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Handout.md">Introduction to C</a></li>
+  <li> <a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Handout.md">Introduction to C Programming</a></li>
 </ul>
 
 ### 📝 Contributions
