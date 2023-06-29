@@ -58,5 +58,6 @@ Remember, using semantic elements is not only beneficial for accessibility and S
 
 That concludes Module 9 on semantic HTML. We've learned about the benefits of semantic HTML, common semantic elements in HTML5, and how to use them for accessibility and SEO. Practice incorporating semantic elements into your web pages and enjoy the benefits they bring.
 
-<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Handout</a></p><p></p>
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%208.md"><< Previous</a></p><p></p>
 <p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/README.md">Homepage</a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Handout.md">Handout</a></p><p></p>
