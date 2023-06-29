@@ -40,6 +40,6 @@ Prompt engineering should be approached with careful consideration of biases and
 
 <br>
 
-<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2003.md"><< Previous</a></p>
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2004.md"><< Previous</a></p>
 <p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md"">Handout</a></p>
-<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2005.md">Next >></a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2006.md">Next >></a></p>
