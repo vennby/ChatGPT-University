@@ -37,3 +37,9 @@ Prompt engineering is a dynamic field with ongoing advancements and discoveries.
 #### GitHub Repositories
    - Explore GitHub repositories related to prompt engineering, fine-tuning language models, or specific prompt engineering techniques.
    - GitHub offers a wealth of open-source code, examples, and projects that can enhance your understanding and provide practical implementations.
+
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2008.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md">Handout</a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2010.md">Next >></a></p>
