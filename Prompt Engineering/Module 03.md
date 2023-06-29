@@ -45,3 +45,9 @@ In some cases, prompt engineering involves handling multiple inputs or condition
 #### Customization and Fine-tuning
    - Fine-tuning language models on specific datasets or domains can enhance their performance and adapt them to specific task requirements.
    - Customizing prompts and training on task-specific data can lead to improved results.
+
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2002.md"><< Previous</a></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md">Handout</a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2004.md">Next >></a></p>
