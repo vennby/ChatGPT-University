@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><p align='center'>2</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%202.md">Functions and Arrays</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%202.md">Functions and Arrays</a></td>
     <td>
       <ol>
         <li>Introduction to functions</li>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><p align='center'>3</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%203.md">Pointers and Memory Management</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%203.md">Pointers and Memory Management</a></td>
     <td>
       <ol>
         <li>Introduction to pointers</li>
@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td><p align='center'>4</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%204.md">Strings anf Character Handling</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%204.md">Strings anf Character Handling</a></td>
     <td>
       <ol>
         <li>Introduction to strings</li>
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td><p align='center'>5</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%205.md">Structured Programming and File Handling</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%205.md">Structured Programming and File Handling</a></td>
     <td>
       <ol>
         <li>Modular programming concepts</li>
@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td><p align='center'>6</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/HTML/Module%206.md">Advanced Topics and Application Development</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%206.md">Advanced Topics and Application Development</a></td>
     <td>
       <ol>
         <li>Bit manipulation and bitwise operators</li>
