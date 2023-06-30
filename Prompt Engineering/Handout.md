@@ -124,10 +124,10 @@
     <td><p align='center'>11</p></td>
     <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2011.md">Case Studies and Practical Exercises</a></td>
     <td>
-      <ol>
+      <ul>
         <li>Scenario 1</li>
         <li>Scenario 2</li>
-      </ol></td>
+      </ul></td>
   </tr>
 </table>
 
