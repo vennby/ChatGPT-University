@@ -1,4 +1,4 @@
-# Module 11: Case Studies and Practical Examples
+# Module 11: Case Studies and Practical Exercises
 Here are a few case studies and practical examples that can help illustrate the application of prompt engineering techniques:
 
 ### Case Study 1: Sentiment Analysis
