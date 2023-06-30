@@ -29,4 +29,8 @@ Here are a few case studies and practical examples that can help illustrate the 
 
 These case studies and practical exercises can serve as starting points for your exploration of prompt engineering. It's important to adapt and tailor them to your specific project or domain. Remember to consider the unique requirements and constraints of each task, evaluate the performance of your prompt engineering techniques, and iterate as necessary.
 
-If you need further assistance or have specific questions related to these case studies or practical examples, feel free to ask.
+<br>
+
+<p align="left"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Module%2010.md"><< Previous</a></p><p></p>
+<p align="center"><a href="https://github.com/vennby/ChatGPT-University/blob/main/README.md">Homepage</a></p>
+<p align="right"><a href="https://github.com/vennby/ChatGPT-University/blob/main/Prompt%20Engineering/Handout.md">Handout</a></p><p></p>
