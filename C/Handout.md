@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td><p align='center'>4</p></td>
-    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%204.md">Strings anf Character Handling</a></td>
+    <td><a href="https://github.com/vennby/ChatGPT-University/blob/main/C/Module%204.md">Strings and Character Handling</a></td>
     <td>
       <ol>
         <li>Introduction to strings</li>
